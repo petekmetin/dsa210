@@ -1,7 +1,7 @@
 # Spotify Exam Analysis
 
 **Sabancı University DSA210 Introduction to Data Science Course Fall 2024-2025 Term Project**
-** Petek Metin (32627)
+**Petek Metin (32627)**
 
 This project explores the relationship between my Spotify listening habits and exam dates to analyze how music preferences might correlate with stress and study habits. By examining genres, artists, and listening patterns, I aim to uncover trends in my behavior during high-stress periods.
 
