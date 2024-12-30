@@ -69,7 +69,7 @@ All data files are stored in the `data/` folder.
 2. **Genre Assignment**:
    - Genre categorization was approximated based on artist names.
 3. **Data Completeness**:
-   - Data is limited to a single semester and may not capture long-term trends.
+   - Data is limited to three semesters and may not capture long-term trends.
 
 ## Future Work
 
