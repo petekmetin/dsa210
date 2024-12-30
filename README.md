@@ -13,8 +13,7 @@ This project explores the relationship between my Spotify listening habits and e
 5. [Findings](#findings)
 6. [Limitations](#limitations)
 7. [Future Work](#future-work)
-8. [How to Run the Code](#how-to-run-the-code)
-9. [Repository Structure](#repository-structure)
+
 
 ## Motivation
 
@@ -79,19 +78,6 @@ All data files are stored in the `data/` folder.
 3. Incorporate additional metrics, such as mood or productivity data.
 4. Explore advanced machine learning techniques to predict stress based on listening habits.
 
-## How to Run the Code
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/spotify_exam_analysis.git
-
-
----
-
-### **12. Repository Structure**
-Outline the structure of your repository.
-
-```markdown
-## Repository Structure
 
 
