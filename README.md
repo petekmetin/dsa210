@@ -97,15 +97,25 @@ Stress during exams can influence behavior, including how we consume media like 
 
 ### 1. Total Listening Hours: Stress vs. Non-Stress Periods
 
-**Insight**: Listening hours decrease during stress periods compared to non-stress periods.
+![Total Listening Hours](visualizations/Total_Stress_NonStress_Comparison.png)
+
+**Insight**: Listening hours decrease during stress periods compared to non-stress periods. The bar chart shows a significant reduction in listening activity during stress periods.
+
+---
 
 ### 2. Days to Exam vs. Listening Activity
 
-**Insight**: Listening activity declines as exams approach.
+![Days to Exam](visualizations/Days_to_Exam_vs_Activity.png)
+
+**Insight**: Listening activity declines as exams approach. The scatter plot indicates a clear reduction in total hours played as the days to the nearest exam decrease.
+
+---
 
 ### 3. Correlation Heatmap
 
-**Insight**: A moderate negative correlation exists between `days_to_exam` and stress levels. Listening duration (`hoursPlayed`) shows minimal direct correlation with stress.
+![Correlation Heatmap](visualizations/Correlation_Heatmap.png)
+
+**Insight**: A moderate negative correlation exists between `days_to_exam` and stress levels. While `hoursPlayed` shows minimal direct correlation with stress, the heatmap highlights `days_to_exam` as the key factor.
 
 ---
 
